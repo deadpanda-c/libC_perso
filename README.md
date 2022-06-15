@@ -2,13 +2,13 @@
 
 ### List of program: 
 
-[ ]	split.c
+[x]	split.c
 
 [ ]	join.c
 
-[ ]	get_array_lenght.c
+[x]	count_array_lenght.c
 
-[ ]	display_array.c
+[x]	display_array.c
 
 [ ]	my_printf.c
 
