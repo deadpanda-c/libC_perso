@@ -46,13 +46,3 @@ char **split(char *sentence, char sepa)
     tab_of_char[array_index] = NULL;
     return (tab_of_char);
 }
-
-int main(void)
-{
-    char **tab = NULL;
-
-    tab = split("coucou toi tu vas bien", ' ');
-    for (int i = 0; tab[i]; i++)
-        printf("%s\n", tab[i]);
-    return (0);
-}
