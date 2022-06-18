@@ -4,7 +4,7 @@
 
 [x]	split.c
 
-[ ]	join.c
+[x]	join.c
 
 [x]	count_array_lenght.c
 
